@@ -30,5 +30,6 @@
 * [Инструкция по "воскрешению кирпича"](https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=94081175) от[Ampernic](https://4pda.to/forum/index.php?showuser=8633511)
 * [Telegram канал](https://t.me/ZTEBV9VitaNews)
 
-## Развитие NineVita
+## Развитие NineVita и других инструментов на 4PDA для прошивки ZTE Blade V9 Vita
 
+![](https://github.com/Zalexanninev15/NineVita/blob/main/All%20versions/dev.png?raw=true)
