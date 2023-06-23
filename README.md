@@ -11,7 +11,7 @@
 
 ![](https://ds-blobs-1.cdn.devapps.ru/18986988.png)
 ![](https://ds-blobs-1.cdn.devapps.ru/18987251.png)
-![](https://i.ibb.co/QXD5df4/image.png)
+<a href="https://ibb.co/g64nV3x"><img src="https://i.ibb.co/ZN2ZmV0/image.png" alt="image" border="0"></a>
 
 ## Описание
 
