@@ -1,0 +1,110 @@
+A:\Development\MySources\Отменены\NineVita 4.0\NV4\obj\Release\NineVita.csprojAssemblyReference.cache
+A:\Development\MySources\Отменены\NineVita 4.0\NV4\obj\Release\NineVita.MainForm.resources
+A:\Development\MySources\Отменены\NineVita 4.0\NV4\obj\Release\NineVita.PartitionsForm.resources
+A:\Development\MySources\Отменены\NineVita 4.0\NV4\obj\Release\NineVita.ChangelogForm.resources
+A:\Development\MySources\Отменены\NineVita 4.0\NV4\obj\Release\NineVita.DelForm.resources
+A:\Development\MySources\Отменены\NineVita 4.0\NV4\obj\Release\NineVita.AppsForm.resources
+A:\Development\MySources\Отменены\NineVita 4.0\NV4\obj\Release\NineVita.InfoForm.resources
+A:\Development\MySources\Отменены\NineVita 4.0\NV4\obj\Release\NineVita.Properties.Resources.resources
+A:\Development\MySources\Отменены\NineVita 4.0\NV4\obj\Release\NineVita.csproj.GenerateResource.cache
+A:\Development\MySources\Отменены\NineVita 4.0\NV4\obj\Release\NineVita.csproj.CoreCompileInputs.cache
+A:\Development\MySources\Отменены\NineVita 4.0\NV4\bin\Release\NineVita.exe.config
+A:\Development\MySources\Отменены\NineVita 4.0\NV4\bin\Release\NineVita.exe
+A:\Development\MySources\Отменены\NineVita 4.0\NV4\bin\Release\NineVita.pdb
+A:\Development\MySources\Отменены\NineVita 4.0\NV4\bin\Release\MetroFramework.Design.dll
+A:\Development\MySources\Отменены\NineVita 4.0\NV4\bin\Release\MetroFramework.dll
+A:\Development\MySources\Отменены\NineVita 4.0\NV4\bin\Release\MetroFramework.Fonts.dll
+A:\Development\MySources\Отменены\NineVita 4.0\NV4\obj\Release\NineVita.csproj.CopyComplete
+A:\Development\MySources\Отменены\NineVita 4.0\NV4\obj\Release\NineVita.exe
+A:\Development\MySources\Отменены\NineVita 4.0\NV4\obj\Release\NineVita.pdb
+A:\Development\MySources\Разрабатываются\NineVita\NineVita 4.0\NV4\bin\Release\NineVita.exe.config
+A:\Development\MySources\Разрабатываются\NineVita\NineVita 4.0\NV4\bin\Release\NineVita.exe
+A:\Development\MySources\Разрабатываются\NineVita\NineVita 4.0\NV4\bin\Release\NineVita.pdb
+A:\Development\MySources\Разрабатываются\NineVita\NineVita 4.0\NV4\bin\Release\MetroFramework.Design.dll
+A:\Development\MySources\Разрабатываются\NineVita\NineVita 4.0\NV4\bin\Release\MetroFramework.dll
+A:\Development\MySources\Разрабатываются\NineVita\NineVita 4.0\NV4\bin\Release\MetroFramework.Fonts.dll
+A:\Development\MySources\Разрабатываются\NineVita\NineVita 4.0\NV4\obj\Release\NineVita.MainForm.resources
+A:\Development\MySources\Разрабатываются\NineVita\NineVita 4.0\NV4\obj\Release\NineVita.PartitionsForm.resources
+A:\Development\MySources\Разрабатываются\NineVita\NineVita 4.0\NV4\obj\Release\NineVita.ChangelogForm.resources
+A:\Development\MySources\Разрабатываются\NineVita\NineVita 4.0\NV4\obj\Release\NineVita.DelForm.resources
+A:\Development\MySources\Разрабатываются\NineVita\NineVita 4.0\NV4\obj\Release\NineVita.AppsForm.resources
+A:\Development\MySources\Разрабатываются\NineVita\NineVita 4.0\NV4\obj\Release\NineVita.InfoForm.resources
+A:\Development\MySources\Разрабатываются\NineVita\NineVita 4.0\NV4\obj\Release\NineVita.Properties.Resources.resources
+A:\Development\MySources\Разрабатываются\NineVita\NineVita 4.0\NV4\obj\Release\NineVita.csproj.GenerateResource.cache
+A:\Development\MySources\Разрабатываются\NineVita\NineVita 4.0\NV4\obj\Release\NineVita.csproj.CoreCompileInputs.cache
+A:\Development\MySources\Разрабатываются\NineVita\NineVita 4.0\NV4\obj\Release\NineVita.csproj.CopyComplete
+A:\Development\MySources\Разрабатываются\NineVita\NineVita 4.0\NV4\obj\Release\NineVita.exe
+A:\Development\MySources\Разрабатываются\NineVita\NineVita 4.0\NV4\obj\Release\NineVita.pdb
+A:\Development\MySources\Разрабатываются\NineVita\NineVita 4.0\NV4\obj\Release\NineVita.csprojAssemblyReference.cache
+A:\Development\MySources\Разрабатываются\NineVita\NineVita 4.0\NV4\bin\Release\HtmlAgilityPack.dll
+A:\Development\MySources\Разрабатываются\NineVita\NineVita 4.0\NV4\bin\Release\HtmlAgilityPack.pdb
+A:\Development\MySources\Разрабатываются\NineVita\NineVita 4.0\NV4\bin\Release\HtmlAgilityPack.xml
+A:\Development\MySources\Разрабатываются\NineVita\NV4\bin\Release\NineVita.exe.config
+A:\Development\MySources\Разрабатываются\NineVita\NV4\bin\Release\NineVita.exe
+A:\Development\MySources\Разрабатываются\NineVita\NV4\bin\Release\NineVita.pdb
+A:\Development\MySources\Разрабатываются\NineVita\NV4\bin\Release\HtmlAgilityPack.dll
+A:\Development\MySources\Разрабатываются\NineVita\NV4\bin\Release\MetroFramework.Design.dll
+A:\Development\MySources\Разрабатываются\NineVita\NV4\bin\Release\MetroFramework.dll
+A:\Development\MySources\Разрабатываются\NineVita\NV4\bin\Release\MetroFramework.Fonts.dll
+A:\Development\MySources\Разрабатываются\NineVita\NV4\bin\Release\HtmlAgilityPack.pdb
+A:\Development\MySources\Разрабатываются\NineVita\NV4\bin\Release\HtmlAgilityPack.xml
+A:\Development\MySources\Разрабатываются\NineVita\NV4\obj\Release\NineVita.csprojAssemblyReference.cache
+A:\Development\MySources\Разрабатываются\NineVita\NV4\obj\Release\NineVita.MainForm.resources
+A:\Development\MySources\Разрабатываются\NineVita\NV4\obj\Release\NineVita.PartitionsForm.resources
+A:\Development\MySources\Разрабатываются\NineVita\NV4\obj\Release\NineVita.ChangelogForm.resources
+A:\Development\MySources\Разрабатываются\NineVita\NV4\obj\Release\NineVita.DelForm.resources
+A:\Development\MySources\Разрабатываются\NineVita\NV4\obj\Release\NineVita.AppsForm.resources
+A:\Development\MySources\Разрабатываются\NineVita\NV4\obj\Release\NineVita.InfoForm.resources
+A:\Development\MySources\Разрабатываются\NineVita\NV4\obj\Release\NineVita.Properties.Resources.resources
+A:\Development\MySources\Разрабатываются\NineVita\NV4\obj\Release\NineVita.csproj.GenerateResource.cache
+A:\Development\MySources\Разрабатываются\NineVita\NV4\obj\Release\NineVita.csproj.CoreCompileInputs.cache
+A:\Development\MySources\Разрабатываются\NineVita\NV4\obj\Release\NineVita.csproj.CopyComplete
+A:\Development\MySources\Разрабатываются\NineVita\NV4\obj\Release\NineVita.exe
+A:\Development\MySources\Разрабатываются\NineVita\NV4\obj\Release\NineVita.pdb
+E:\DEV\NineVita\NV4\obj\Release\NineVita.MainForm.resources
+E:\DEV\NineVita\NV4\obj\Release\NineVita.PartitionsForm.resources
+E:\DEV\NineVita\NV4\obj\Release\NineVita.ChangelogForm.resources
+E:\DEV\NineVita\NV4\obj\Release\NineVita.DelForm.resources
+E:\DEV\NineVita\NV4\obj\Release\NineVita.AppsForm.resources
+E:\DEV\NineVita\NV4\obj\Release\NineVita.InfoForm.resources
+E:\DEV\NineVita\NV4\obj\Release\NineVita.Properties.Resources.resources
+E:\DEV\NineVita\NV4\obj\Release\NineVita.csproj.GenerateResource.cache
+E:\DEV\NineVita\NV4\obj\Release\NineVita.csproj.CoreCompileInputs.cache
+E:\DEV\NineVita\NV4\obj\Release\NineVita.exe
+E:\DEV\NineVita\NV4\obj\Release\NineVita.pdb
+E:\DEV\NineVita\NV4\bin\Release\NineVita.exe.config
+E:\DEV\NineVita\NV4\bin\Release\NineVita.exe
+E:\DEV\NineVita\NV4\bin\Release\NineVita.pdb
+E:\DEV\NineVita\NV4\bin\Release\HtmlAgilityPack.dll
+E:\DEV\NineVita\NV4\bin\Release\MetroFramework.Design.dll
+E:\DEV\NineVita\NV4\bin\Release\MetroFramework.dll
+E:\DEV\NineVita\NV4\bin\Release\MetroFramework.Fonts.dll
+E:\DEV\NineVita\NV4\bin\Release\HtmlAgilityPack.pdb
+E:\DEV\NineVita\NV4\bin\Release\HtmlAgilityPack.xml
+E:\DEV\NineVita\NV4\obj\Release\NineVita.csproj.CopyComplete
+E:\DEV\NineVita\NV4\obj\Release\NineVita.csproj.AssemblyReference.cache
+E:\DEV\CSharp\nv4\NV4\bin\Release\NineVita.exe.config
+E:\DEV\CSharp\nv4\NV4\bin\Release\NineVita.exe
+E:\DEV\CSharp\nv4\NV4\bin\Release\NineVita.pdb
+E:\DEV\CSharp\nv4\NV4\bin\Release\HtmlAgilityPack.dll
+E:\DEV\CSharp\nv4\NV4\bin\Release\MetroFramework.Design.dll
+E:\DEV\CSharp\nv4\NV4\bin\Release\MetroFramework.dll
+E:\DEV\CSharp\nv4\NV4\bin\Release\MetroFramework.Fonts.dll
+E:\DEV\CSharp\nv4\NV4\bin\Release\HtmlAgilityPack.pdb
+E:\DEV\CSharp\nv4\NV4\bin\Release\HtmlAgilityPack.xml
+E:\DEV\CSharp\nv4\NV4\obj\Release\NineVita.csproj.AssemblyReference.cache
+E:\DEV\CSharp\nv4\NV4\obj\Release\NineVita.MainForm.resources
+E:\DEV\CSharp\nv4\NV4\obj\Release\NineVita.PartitionsForm.resources
+E:\DEV\CSharp\nv4\NV4\obj\Release\NineVita.ChangelogForm.resources
+E:\DEV\CSharp\nv4\NV4\obj\Release\NineVita.DelForm.resources
+E:\DEV\CSharp\nv4\NV4\obj\Release\NineVita.AppsForm.resources
+E:\DEV\CSharp\nv4\NV4\obj\Release\NineVita.InfoForm.resources
+E:\DEV\CSharp\nv4\NV4\obj\Release\NineVita.Properties.Resources.resources
+E:\DEV\CSharp\nv4\NV4\obj\Release\NineVita.csproj.GenerateResource.cache
+E:\DEV\CSharp\nv4\NV4\obj\Release\NineVita.csproj.CoreCompileInputs.cache
+E:\DEV\CSharp\nv4\NV4\obj\Release\NineVita.csproj.CopyComplete
+E:\DEV\CSharp\nv4\NV4\obj\Release\NineVita.exe
+E:\DEV\CSharp\nv4\NV4\obj\Release\NineVita.pdb
+E:\DEV\CSharp\nv4\NV4.0\NineVita.exe.config
+E:\DEV\CSharp\nv4\NV4.0\NineVita.exe
+E:\DEV\CSharp\nv4\NV4.0\NineVita.pdb

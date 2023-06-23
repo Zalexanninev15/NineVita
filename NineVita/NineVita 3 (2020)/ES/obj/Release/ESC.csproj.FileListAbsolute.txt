@@ -1,0 +1,18 @@
+C:\Users\Максим\Desktop\ES\ES\bin\Release\ESC.exe
+C:\Users\Максим\Desktop\ES\ES\bin\Release\ESC.pdb
+C:\Users\Максим\Desktop\ES\ES\obj\Release\ESC.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\ES\ES\obj\Release\ES.Form10.resources
+C:\Users\Максим\Desktop\ES\ES\obj\Release\ES.Form11.resources
+C:\Users\Максим\Desktop\ES\ES\obj\Release\ESC.Properties.Resources.resources
+C:\Users\Максим\Desktop\ES\ES\obj\Release\ESC.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\ES\ES\obj\Release\ESC.exe
+C:\Users\Максим\Desktop\ES\ES\obj\Release\ESC.pdb
+C:\Users\Максим\Desktop\NineVita (2020)\ES\bin\Release\ESC.exe
+C:\Users\Максим\Desktop\NineVita (2020)\ES\bin\Release\ESC.pdb
+C:\Users\Максим\Desktop\NineVita (2020)\ES\obj\Release\ESC.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\NineVita (2020)\ES\obj\Release\ES.Form10.resources
+C:\Users\Максим\Desktop\NineVita (2020)\ES\obj\Release\ES.Form11.resources
+C:\Users\Максим\Desktop\NineVita (2020)\ES\obj\Release\ESC.Properties.Resources.resources
+C:\Users\Максим\Desktop\NineVita (2020)\ES\obj\Release\ESC.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\NineVita (2020)\ES\obj\Release\ESC.exe
+C:\Users\Максим\Desktop\NineVita (2020)\ES\obj\Release\ESC.pdb

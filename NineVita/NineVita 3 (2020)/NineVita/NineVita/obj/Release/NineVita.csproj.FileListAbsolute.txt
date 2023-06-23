@@ -1,0 +1,44 @@
+C:\Users\Максим\Desktop\NineVita\NineVita\bin\Release\NineVita.exe.config
+C:\Users\Максим\Desktop\NineVita\NineVita\bin\Release\NineVita.exe
+C:\Users\Максим\Desktop\NineVita\NineVita\bin\Release\NineVita.pdb
+C:\Users\Максим\Desktop\NineVita\NineVita\bin\Release\MetroFramework.Design.dll
+C:\Users\Максим\Desktop\NineVita\NineVita\bin\Release\MetroFramework.dll
+C:\Users\Максим\Desktop\NineVita\NineVita\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Максим\Desktop\NineVita\NineVita\bin\Release\SharpConfig.dll
+C:\Users\Максим\Desktop\NineVita\NineVita\bin\Release\SharpConfig.xml
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Release\NineVita_Tool.Properties.Resources.resources
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Release\NineVita.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Release\NineVita.csproj.CopyComplete
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Release\NineVita.exe
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Release\NineVita.pdb
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Release\NineVita_Tool.MainForm.resources
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Release\NineVita_Tool.PartitionsForm.resources
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Release\NineVita_Tool.ChangelogForm.resources
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Release\NineVita_Tool.SplashLoadForm.resources
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Release\NineVita_Tool.DelForm.resources
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Release\NineVita_Tool.AppsForm.resources
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Release\NineVita_Tool.InfoForm.resources
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Release\NineVita.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\NineVita (2020)\NineVita\NineVita\obj\Release\NineVita_Tool.Ad1.resources
+C:\Users\Максим\Desktop\NineVita (2020)\NineVita\NineVita\obj\Release\NineVita_Tool.MainForm.resources
+C:\Users\Максим\Desktop\NineVita (2020)\NineVita\NineVita\obj\Release\NineVita_Tool.PartitionsForm.resources
+C:\Users\Максим\Desktop\NineVita (2020)\NineVita\NineVita\obj\Release\NineVita_Tool.ChangelogForm.resources
+C:\Users\Максим\Desktop\NineVita (2020)\NineVita\NineVita\obj\Release\NineVita_Tool.SecretForm.resources
+C:\Users\Максим\Desktop\NineVita (2020)\NineVita\NineVita\obj\Release\NineVita_Tool.DelForm.resources
+C:\Users\Максим\Desktop\NineVita (2020)\NineVita\NineVita\obj\Release\NineVita_Tool.AppsForm.resources
+C:\Users\Максим\Desktop\NineVita (2020)\NineVita\NineVita\obj\Release\NineVita_Tool.InfoForm.resources
+C:\Users\Максим\Desktop\NineVita (2020)\NineVita\NineVita\obj\Release\NineVita.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\NineVita (2020)\NineVita\NineVita\bin\Release\NineVita.exe.config
+C:\Users\Максим\Desktop\NineVita (2020)\NineVita\NineVita\bin\Release\NineVita.exe
+C:\Users\Максим\Desktop\NineVita (2020)\NineVita\NineVita\bin\Release\NineVita.pdb
+C:\Users\Максим\Desktop\NineVita (2020)\NineVita\NineVita\bin\Release\MetroFramework.Design.dll
+C:\Users\Максим\Desktop\NineVita (2020)\NineVita\NineVita\bin\Release\MetroFramework.dll
+C:\Users\Максим\Desktop\NineVita (2020)\NineVita\NineVita\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Максим\Desktop\NineVita (2020)\NineVita\NineVita\bin\Release\SharpConfig.dll
+C:\Users\Максим\Desktop\NineVita (2020)\NineVita\NineVita\bin\Release\SharpConfig.xml
+C:\Users\Максим\Desktop\NineVita (2020)\NineVita\NineVita\obj\Release\NineVita_Tool.Properties.Resources.resources
+C:\Users\Максим\Desktop\NineVita (2020)\NineVita\NineVita\obj\Release\NineVita.csproj.CopyComplete
+C:\Users\Максим\Desktop\NineVita (2020)\NineVita\NineVita\obj\Release\NineVita.exe
+C:\Users\Максим\Desktop\NineVita (2020)\NineVita\NineVita\obj\Release\NineVita.pdb
+C:\Users\Максим\Desktop\NineVita (2020)\NineVita\NineVita\obj\Release\NineVita.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\NineVita (2020)\NineVita\NineVita\obj\Release\NineVita_Tool.Ad2.resources

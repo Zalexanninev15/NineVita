@@ -1,0 +1,45 @@
+C:\Users\Максим\Desktop\NineVita\NineVita\bin\Debug\NineVita.exe.config
+C:\Users\Максим\Desktop\NineVita\NineVita\bin\Debug\NineVita.exe
+C:\Users\Максим\Desktop\NineVita\NineVita\bin\Debug\NineVita.pdb
+C:\Users\Максим\Desktop\NineVita\NineVita\bin\Debug\MetroFramework.Design.dll
+C:\Users\Максим\Desktop\NineVita\NineVita\bin\Debug\MetroFramework.dll
+C:\Users\Максим\Desktop\NineVita\NineVita\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Максим\Desktop\NineVita\NineVita\bin\Debug\SharpConfig.dll
+C:\Users\Максим\Desktop\NineVita\NineVita\bin\Debug\SharpConfig.xml
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Debug\NineVita.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Debug\NineVita_Tool.Form1.resources
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Debug\NineVita_Tool.Form11.resources
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Debug\NineVita_Tool.Form2.resources
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Debug\NineVita_Tool.Form3.resources
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Debug\NineVita_Tool.Form4.resources
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Debug\NineVita_Tool.Form6.resources
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Debug\NineVita_Tool.Form5.resources
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Debug\NineVita_Tool.Form8.resources
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Debug\NineVita_Tool.Form10.resources
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Debug\NineVita_Tool.Properties.Resources.resources
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Debug\NineVita.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Debug\NineVita.csproj.CopyComplete
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Debug\NineVita.exe
+C:\Users\Максим\Desktop\NineVita\NineVita\obj\Debug\NineVita.pdb
+I:\Development\MySources\Завершены\NineVita\NineVita 2 (2020)\NineVita\NineVita\bin\Debug\NineVita.exe.config
+I:\Development\MySources\Завершены\NineVita\NineVita 2 (2020)\NineVita\NineVita\bin\Debug\NineVita.exe
+I:\Development\MySources\Завершены\NineVita\NineVita 2 (2020)\NineVita\NineVita\bin\Debug\NineVita.pdb
+I:\Development\MySources\Завершены\NineVita\NineVita 2 (2020)\NineVita\NineVita\bin\Debug\MetroFramework.Design.dll
+I:\Development\MySources\Завершены\NineVita\NineVita 2 (2020)\NineVita\NineVita\bin\Debug\MetroFramework.dll
+I:\Development\MySources\Завершены\NineVita\NineVita 2 (2020)\NineVita\NineVita\bin\Debug\MetroFramework.Fonts.dll
+I:\Development\MySources\Завершены\NineVita\NineVita 2 (2020)\NineVita\NineVita\bin\Debug\SharpConfig.dll
+I:\Development\MySources\Завершены\NineVita\NineVita 2 (2020)\NineVita\NineVita\bin\Debug\SharpConfig.xml
+I:\Development\MySources\Завершены\NineVita\NineVita 2 (2020)\NineVita\NineVita\obj\Debug\NineVita.csprojAssemblyReference.cache
+I:\Development\MySources\Завершены\NineVita\NineVita 2 (2020)\NineVita\NineVita\obj\Debug\NineVita_Tool.MainForm.resources
+I:\Development\MySources\Завершены\NineVita\NineVita 2 (2020)\NineVita\NineVita\obj\Debug\NineVita_Tool.PartitionsForm.resources
+I:\Development\MySources\Завершены\NineVita\NineVita 2 (2020)\NineVita\NineVita\obj\Debug\NineVita_Tool.ChangelogForm.resources
+I:\Development\MySources\Завершены\NineVita\NineVita 2 (2020)\NineVita\NineVita\obj\Debug\NineVita_Tool.SplashLoadForm.resources
+I:\Development\MySources\Завершены\NineVita\NineVita 2 (2020)\NineVita\NineVita\obj\Debug\NineVita_Tool.DelForm.resources
+I:\Development\MySources\Завершены\NineVita\NineVita 2 (2020)\NineVita\NineVita\obj\Debug\NineVita_Tool.AppsForm.resources
+I:\Development\MySources\Завершены\NineVita\NineVita 2 (2020)\NineVita\NineVita\obj\Debug\NineVita_Tool.InfoForm.resources
+I:\Development\MySources\Завершены\NineVita\NineVita 2 (2020)\NineVita\NineVita\obj\Debug\NineVita_Tool.Properties.Resources.resources
+I:\Development\MySources\Завершены\NineVita\NineVita 2 (2020)\NineVita\NineVita\obj\Debug\NineVita.csproj.GenerateResource.cache
+I:\Development\MySources\Завершены\NineVita\NineVita 2 (2020)\NineVita\NineVita\obj\Debug\NineVita.csproj.CoreCompileInputs.cache
+I:\Development\MySources\Завершены\NineVita\NineVita 2 (2020)\NineVita\NineVita\obj\Debug\NineVita.csproj.CopyComplete
+I:\Development\MySources\Завершены\NineVita\NineVita 2 (2020)\NineVita\NineVita\obj\Debug\NineVita.exe
+I:\Development\MySources\Завершены\NineVita\NineVita 2 (2020)\NineVita\NineVita\obj\Debug\NineVita.pdb

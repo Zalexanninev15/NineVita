@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NineVita-Tool", "NineVita-Tool\NineVita-Tool.csproj", "{AC392A95-7634-4AB7-ABDB-DEFD0C5F5057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC392A95-7634-4AB7-ABDB-DEFD0C5F5057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC392A95-7634-4AB7-ABDB-DEFD0C5F5057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC392A95-7634-4AB7-ABDB-DEFD0C5F5057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC392A95-7634-4AB7-ABDB-DEFD0C5F5057}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EADE3CF3-5B17-47F1-A650-3E08DA83C568}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Максим\source\repos\NineVita-Tool\NineVita-Tool\bin\Debug\NineVita-Tool.exe.config
+C:\Users\Максим\source\repos\NineVita-Tool\NineVita-Tool\bin\Debug\NineVita-Tool.exe
+C:\Users\Максим\source\repos\NineVita-Tool\NineVita-Tool\bin\Debug\NineVita-Tool.pdb
+C:\Users\Максим\source\repos\NineVita-Tool\NineVita-Tool\obj\Debug\NineVita-Tool.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\NineVita-Tool\NineVita-Tool\obj\Debug\NineVita_Tool.Properties.Resources.resources
+C:\Users\Максим\source\repos\NineVita-Tool\NineVita-Tool\obj\Debug\NineVita-Tool.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\NineVita-Tool\NineVita-Tool\obj\Debug\NineVita-Tool.csproj.CopyComplete
+C:\Users\Максим\source\repos\NineVita-Tool\NineVita-Tool\obj\Debug\NineVita-Tool.exe
+C:\Users\Максим\source\repos\NineVita-Tool\NineVita-Tool\obj\Debug\NineVita-Tool.pdb
+C:\Users\Максим\source\repos\NineVita-Tool\NineVita-Tool\obj\Debug\NineVita_Tool.Form1.resources
+C:\Users\Максим\source\repos\NineVita-Tool\NineVita-Tool\bin\Debug\MetroFramework.Design.dll
+C:\Users\Максим\source\repos\NineVita-Tool\NineVita-Tool\bin\Debug\MetroFramework.dll
+C:\Users\Максим\source\repos\NineVita-Tool\NineVita-Tool\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Максим\source\repos\NineVita-Tool\NineVita-Tool\obj\Debug\NineVita_Tool.Form2.resources
+C:\Users\Максим\source\repos\NineVita-Tool\NineVita-Tool\obj\Debug\NineVita_Tool.Form3.resources

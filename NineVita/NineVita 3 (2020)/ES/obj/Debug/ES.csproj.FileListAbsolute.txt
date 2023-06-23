@@ -1,0 +1,8 @@
+C:\Users\Максим\Desktop\ES\ES\obj\Debug\ES.Form11.resources
+C:\Users\Максим\Desktop\ES\ES\obj\Debug\ES.Properties.Resources.resources
+C:\Users\Максим\Desktop\ES\ES\obj\Debug\ES.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\ES\ES\obj\Debug\ES.Form10.resources
+C:\Users\Максим\Desktop\ES\ES\bin\Debug\ES.exe
+C:\Users\Максим\Desktop\ES\ES\bin\Debug\ES.pdb
+C:\Users\Максим\Desktop\ES\ES\obj\Debug\ES.exe
+C:\Users\Максим\Desktop\ES\ES\obj\Debug\ES.pdb
