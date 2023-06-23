@@ -27,7 +27,7 @@
 
 * [Официальный пост](https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=91409816)
 * [Инструкция по использованию](https://4pda.to/forum/index.php?showtopic=952274&st=1160#entry93481168) от [Ampernic](https://4pda.to/forum/index.php?showuser=8633511)
-* [Инструкция по "воскрешению кирпича"](https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=94081175) от[Ampernic](https://4pda.to/forum/index.php?showuser=8633511)
+* [Инструкция по "воскрешению кирпича"](https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=94081175) от [Ampernic](https://4pda.to/forum/index.php?showuser=8633511)
 * [Telegram канал](https://t.me/ZTEBV9VitaNews)
 
 ## Развитие NineVita и других инструментов на 4PDA для прошивки ZTE Blade V9 Vita
