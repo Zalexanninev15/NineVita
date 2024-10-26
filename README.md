@@ -1,6 +1,6 @@
 # NineVita | [Последняя стабильная версия (4PDA)](https://4pda.to/forum/index.php?act=findpost&pid=91409816&anchor=Spoil-91409816-3)
 
-[![](https://img.shields.io/badge/OS-Windows-informational?logo=windows)](https://github.com/Zalexanninev15/NineVita)
+[![](https://img.shields.io/badge/OS-Windows-informational)](https://github.com/Zalexanninev15/NineVita)
 [![](https://img.shields.io/badge/.NET-Framework_4.7-4E2ACD.svg)](https://dotnet.microsoft.com/download/dotnet-framework/net47)
 [![](https://img.shields.io/badge/written_on-CSharp-239120.svg?logo=csharp)](https://github.com/Zalexanninev15/NineVita)
 [![](https://img.shields.io/badge/release-v3.11-blue.svg)](https://4pda.to/forum/index.php?act=findpost&pid=91409816&anchor=Spoil-91409816-3) 
