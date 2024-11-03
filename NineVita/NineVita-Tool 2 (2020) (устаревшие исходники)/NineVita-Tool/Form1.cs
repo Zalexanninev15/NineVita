@@ -38,12 +38,12 @@ namespace NineVita_Tool
 
         private void metroLink1_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://4pda.ru/forum/index.php?showuser=5330563");
+            System.Diagnostics.Process.Start("https://4pda.to/forum/index.php?showuser=5330563");
         }
 
         private void metroLink2_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://4pda.ru/forum/index.php?showuser=5901662");
+            System.Diagnostics.Process.Start("https://4pda.to/forum/index.php?showuser=5901662");
         }
 
         private void metroLink3_Click(object sender, EventArgs e)
@@ -165,7 +165,7 @@ namespace NineVita_Tool
 
         private void button9_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=91409816");
+            System.Diagnostics.Process.Start("https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=91409816");
         }
 
         private void textBox8_TextChanged(object sender, EventArgs e)
@@ -804,7 +804,7 @@ namespace NineVita_Tool
             textBox17.Text = "Заводская прошивка."; // Краткое описание
             button4.Text = "2/16";
             button32.Text = "3/32";
-            frimwares[0] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=92021946"; // Ссылка на скачивание файла "system.img" (рекомендуется из облака MEGA)
+            frimwares[0] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=92021946"; // Ссылка на скачивание файла "system.img" (рекомендуется из облака MEGA)
             frimwares[1] = "https://mega.nz/#!ZgN32QZR!2S6JrSc6hjRrJtgW1GMUTcSn746oKX0TrrAUFNwx_iQ"; // Ссылка на скачивание файла "system.img" (зеркало)
             frimwares[2] = "https://www.ztedevices.com/en/support/detail?id=B4F82174264A4271990B5943CA6819AA"; // Ссылка на источник или "подробнее об прошивке"
             frimwares[3] = "V11"; // Папка прошивки
@@ -890,7 +890,7 @@ namespace NineVita_Tool
             button32.Text = "Я.Диск";
             frimwares[0] = "https://mega.nz/#!otMXyIYb!Z4egSUmo1jc3XOSHqLx1MjQw32L-C3ubb74T-jI5RfM"; // Ссылка на скачивание файла "system.img" (рекомендуется из облака MEGA)
             frimwares[1] = "https://yadi.sk/d/ICPSLStOLi11kg"; // Ссылка на скачивание файла "system.img" (зеркало)
-            frimwares[2] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=86029984"; // Ссылка на источник или "подробнее об прошивке"
+            frimwares[2] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=86029984"; // Ссылка на источник или "подробнее об прошивке"
             frimwares[3] = "LO151"; // Папка прошивки
         }
 
@@ -908,7 +908,7 @@ namespace NineVita_Tool
             button32.Text = "Я.Диск";
             frimwares[0] = "https://mega.nz/#!d9FTlaIJ!IQsmOCEauPj-cACQyfiuNFPKvsugt71OwnNseK8PwcU"; // Ссылка на скачивание файла "system.img" (рекомендуется из облака MEGA)
             frimwares[1] = "https://yadi.sk/d/cklsb4NNhUFINQ"; // Ссылка на скачивание файла "system.img" (зеркало)
-            frimwares[2] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=86241947"; // Ссылка на источник или "подробнее об прошивке"
+            frimwares[2] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=86241947"; // Ссылка на источник или "подробнее об прошивке"
             frimwares[3] = "OO"; // Папка прошивки
         }
 
@@ -948,7 +948,7 @@ namespace NineVita_Tool
             button32.Text = "Я.Диск";
             frimwares[0] = "https://mega.nz/#!J5M3gQxY!7kHlt6lNVhkK1bM4yulyANeiB0f-4zGELI60RdHWnXU"; // Ссылка на скачивание файла "system.img" (рекомендуется из облака MEGA)
             frimwares[1] = "https://yadi.sk/d/tBSHhWzlJp6-5w"; // Ссылка на скачивание файла "system.img" (зеркало)
-            frimwares[2] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=86124087"; // Ссылка на источник или "подробнее об прошивке"
+            frimwares[2] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=86124087"; // Ссылка на источник или "подробнее об прошивке"
             frimwares[3] = "HO"; // Папка прошивки
         }
 
@@ -997,12 +997,12 @@ namespace NineVita_Tool
 
         private void button33_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://4pda.ru/forum/index.php?s=&showtopic=892755&view=findpost&p=71222655");
+            System.Diagnostics.Process.Start("https://4pda.to/forum/index.php?s=&showtopic=892755&view=findpost&p=71222655");
         }
 
         private void metroLink7_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://4pda.ru/forum/index.php?showuser=5330563");
+            System.Diagnostics.Process.Start("https://4pda.to/forum/index.php?showuser=5330563");
         }
 
         private void metroToggle7_CheckedChanged(object sender, EventArgs e)
@@ -1093,12 +1093,12 @@ namespace NineVita_Tool
 
         private void pictureBox13_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://4pda.ru/forum/index.php?act=findpost&pid=91409816&anchor=Spoil-91409816-5");
+            System.Diagnostics.Process.Start("https://4pda.to/forum/index.php?act=findpost&pid=91409816&anchor=Spoil-91409816-5");
         }
 
         private void metroLink4_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://4pda.ru/forum/index.php?showuser=8633511");
+            System.Diagnostics.Process.Start("https://4pda.to/forum/index.php?showuser=8633511");
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)

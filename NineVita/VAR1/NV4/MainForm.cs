@@ -861,8 +861,8 @@ namespace NineVita
                     "Just flash and enjoy...";
                 button4.Text = "Скачать";
                 button32.Text = "Ещё раз";
-                frimwares[0] = "https://sourceforge.net/projects/expressluke-gsis/files/HavocOS/Ten/ARM64/A/Havoc-OS-v3.0-20191225-ARM64A-Unofficial.img.xz/download";
-                frimwares[1] = "https://sourceforge.net/projects/expressluke-gsis/files/HavocOS/Ten/ARM64/A/Havoc-OS-v3.0-20191225-ARM64A-Unofficial.img.xz/download";
+                frimwares[0] = "https://sourceforge.net/projects/expressluke-gsis/files/HavocOS/Ten/ARM64/A/Havoc-platform-v3.0-20191225-ARM64A-Unofficial.img.xz/download";
+                frimwares[1] = "https://sourceforge.net/projects/expressluke-gsis/files/HavocOS/Ten/ARM64/A/Havoc-platform-v3.0-20191225-ARM64A-Unofficial.img.xz/download";
                 frimwares[2] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=92530905";
                 frimwares[3] = "HO3"; // Папка прошивки
             } catch { MessageBox.Show("Данные для показа не найдены!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); }

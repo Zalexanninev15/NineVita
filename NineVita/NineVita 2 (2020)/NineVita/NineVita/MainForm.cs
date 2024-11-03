@@ -762,8 +762,8 @@ namespace NineVita_Tool
             textBox17.Text = "Заводская прошивка."; // Краткое описание
             button4.Text = "2/16";
             button32.Text = "3/32";
-            frimwares[0] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=92021946"; // Ссылка на скачивание файла "system.img" (рекомендуется из облака MEGA)
-            frimwares[1] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=92437481"; // Ссылка на скачивание файла "system.img" (зеркало)
+            frimwares[0] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=92021946"; // Ссылка на скачивание файла "system.img" (рекомендуется из облака MEGA)
+            frimwares[1] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=92437481"; // Ссылка на скачивание файла "system.img" (зеркало)
             frimwares[2] = "https://www.ztedevices.com/en/support/detail?id=B4F82174264A4271990B5943CA6819AA"; // Ссылка на источник или "подробнее об прошивке"
             frimwares[3] = "V11"; // Папка прошивки
         }
@@ -848,7 +848,7 @@ namespace NineVita_Tool
             button32.Text = "Я.Диск";
             frimwares[0] = "https://mega.nz/#!otMXyIYb!Z4egSUmo1jc3XOSHqLx1MjQw32L-C3ubb74T-jI5RfM"; // Ссылка на скачивание файла "system.img" (рекомендуется из облака MEGA)
             frimwares[1] = "https://yadi.sk/d/ICPSLStOLi11kg"; // Ссылка на скачивание файла "system.img" (зеркало)
-            frimwares[2] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=86029984"; // Ссылка на источник или "подробнее об прошивке"
+            frimwares[2] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=86029984"; // Ссылка на источник или "подробнее об прошивке"
             frimwares[3] = "LO151"; // Папка прошивки
         }
 
@@ -866,7 +866,7 @@ namespace NineVita_Tool
             button32.Text = "Ещё раз";
             frimwares[0] = "https://yadi.sk/d/cklsb4NNhUFINQ"; // Ссылка на скачивание файла "system.img" (рекомендуется из облака MEGA)
             frimwares[1] = "https://yadi.sk/d/cklsb4NNhUFINQ"; // Ссылка на скачивание файла "system.img" (зеркало)
-            frimwares[2] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=86241947"; // Ссылка на источник или "подробнее об прошивке"
+            frimwares[2] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=86241947"; // Ссылка на источник или "подробнее об прошивке"
             frimwares[3] = "OO"; // Папка прошивки
         }
 
@@ -883,7 +883,7 @@ namespace NineVita_Tool
             button4.Text = "2/16";
             button32.Text = "3/32";
             frimwares[0] = "https://mega.nz/#F!15cXWSRa!4xej5rd1yk9gDVSZbae_EA"; // Ссылка на скачивание файла "system.img" (рекомендуется из облака MEGA)
-            frimwares[1] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=92437481"; // Ссылка на скачивание файла "system.img" (зеркало)
+            frimwares[1] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=92437481"; // Ссылка на скачивание файла "system.img" (зеркало)
             frimwares[2] = "https://www.ztedevices.com/en/support/detail?id=B4F82174264A4271990B5943CA6819AA"; // Ссылка на источник или "подробнее об прошивке"
             frimwares[3] = "V12"; // Папка прошивки
         }
@@ -906,13 +906,13 @@ namespace NineVita_Tool
             button32.Text = "Я.Диск";
             frimwares[0] = "https://mega.nz/#!J5M3gQxY!7kHlt6lNVhkK1bM4yulyANeiB0f-4zGELI60RdHWnXU"; // Ссылка на скачивание файла "system.img" (рекомендуется из облака MEGA)
             frimwares[1] = "https://yadi.sk/d/tBSHhWzlJp6-5w"; // Ссылка на скачивание файла "system.img" (зеркало)
-            frimwares[2] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=86124087"; // Ссылка на источник или "подробнее об прошивке"
+            frimwares[2] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=86124087"; // Ссылка на источник или "подробнее об прошивке"
             frimwares[3] = "HO"; // Папка прошивки
         }
 
         private void button33_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://4pda.ru/forum/index.php?s=&showtopic=892755&view=findpost&p=71222655");
+            System.Diagnostics.Process.Start("https://4pda.to/forum/index.php?s=&showtopic=892755&view=findpost&p=71222655");
         }
 
         private void metroToggle7_CheckedChanged(object sender, EventArgs e)
@@ -1002,7 +1002,7 @@ namespace NineVita_Tool
 
         private void pictureBox13_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://4pda.ru/forum/index.php?act=findpost&pid=91409816&anchor=Spoil-91409816-5");
+            System.Diagnostics.Process.Start("https://4pda.to/forum/index.php?act=findpost&pid=91409816&anchor=Spoil-91409816-5");
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -1071,7 +1071,7 @@ namespace NineVita_Tool
 
         private void pictureBox17_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=91409816");
+            System.Diagnostics.Process.Start("https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=91409816");
         }
 
         private void pictureBox18_Click(object sender, EventArgs e)
@@ -1258,9 +1258,9 @@ namespace NineVita_Tool
                 "Just flash and enjoy...";
             button4.Text = "Скачать";
             button32.Text = "Ещё раз";
-            frimwares[0] = "https://sourceforge.net/projects/expressluke-gsis/files/HavocOS/Ten/ARM64/A/Havoc-OS-v3.0-20191225-ARM64A-Unofficial.img.xz/download"; // Ссылка на скачивание файла "system.img" (рекомендуется из облака MEGA)
-            frimwares[1] = "https://sourceforge.net/projects/expressluke-gsis/files/HavocOS/Ten/ARM64/A/Havoc-OS-v3.0-20191225-ARM64A-Unofficial.img.xz/download"; // Ссылка на скачивание файла "system.img" (зеркало)
-            frimwares[2] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=92530905"; // Ссылка на источник или "подробнее об прошивке"
+            frimwares[0] = "https://sourceforge.net/projects/expressluke-gsis/files/HavocOS/Ten/ARM64/A/Havoc-platform-v3.0-20191225-ARM64A-Unofficial.img.xz/download"; // Ссылка на скачивание файла "system.img" (рекомендуется из облака MEGA)
+            frimwares[1] = "https://sourceforge.net/projects/expressluke-gsis/files/HavocOS/Ten/ARM64/A/Havoc-platform-v3.0-20191225-ARM64A-Unofficial.img.xz/download"; // Ссылка на скачивание файла "system.img" (зеркало)
+            frimwares[2] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=92530905"; // Ссылка на источник или "подробнее об прошивке"
             frimwares[3] = "HO3"; // Папка прошивки
         }
 
@@ -1278,7 +1278,7 @@ namespace NineVita_Tool
             button32.Text = "A.Host";
             frimwares[0] = "https://cloud.mail.ru/public/2XXK/3LCBhc8eq"; // Ссылка на скачивание файла "system.img" (рекомендуется из облака MEGA)
             frimwares[1] = "https://androidfilehost.com/?w=files&flid=291038&sort_by=date&sort_dir=DESC"; // Ссылка на скачивание файла "system.img" (зеркало)
-            frimwares[2] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=87734060"; // Ссылка на источник или "подробнее об прошивке"
+            frimwares[2] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=87734060"; // Ссылка на источник или "подробнее об прошивке"
             frimwares[3] = "BootleggersROM"; // Папка прошивки
         }
 
@@ -1298,7 +1298,7 @@ namespace NineVita_Tool
             button32.Text = "Ещё раз";
             frimwares[0] = "https://sourceforge.net/projects/gsi-albus/files/arm64-aonly/android10/arrow/system.img/download"; // Ссылка на скачивание файла "system.img" (рекомендуется из облака MEGA)
             frimwares[1] = "https://sourceforge.net/projects/gsi-albus/files/arm64-aonly/android10/arrow/system.img/download"; // Ссылка на скачивание файла "system.img" (зеркало)
-            frimwares[2] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=92619499"; // Ссылка на источник или "подробнее об прошивке"
+            frimwares[2] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=92619499"; // Ссылка на источник или "подробнее об прошивке"
             frimwares[3] = "AO"; // Папка прошивки
         }
 
@@ -1314,7 +1314,7 @@ namespace NineVita_Tool
 
         private void pictureBox20_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://4pda.ru/forum/index.php?act=findpost&pid=91409816&anchor=Spoil-91409816-13");
+            System.Diagnostics.Process.Start("https://4pda.to/forum/index.php?act=findpost&pid=91409816&anchor=Spoil-91409816-13");
         }
 
         private void pictureBox21_Click(object sender, EventArgs e)

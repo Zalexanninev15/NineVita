@@ -535,8 +535,8 @@ namespace NineVita
                 textBox17.Text = "Заводская прошивка.";
                 button4.Text = "2/16";
                 button32.Text = "3/32";
-                frimwares[0] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=92021946";
-                frimwares[1] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=92437481";
+                frimwares[0] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=92021946";
+                frimwares[1] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=92437481";
                 frimwares[2] = "https://www.ztedevices.com/en/support/detail?id=B4F82174264A4271990B5943CA6819AA";
                 frimwares[3] = "V11";
             } catch { MessageBox.Show("Данные для показа не найдены!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); }
@@ -563,8 +563,8 @@ namespace NineVita
                 textBox17.Text = "Заводская прошивка.";
                 button4.Text = "2/16";
                 button32.Text = "3/32";
-                frimwares[0] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=92021946";
-                frimwares[1] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=92437481";
+                frimwares[0] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=92021946";
+                frimwares[1] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=92437481";
                 frimwares[2] = "https://www.ztedevices.com/en/support/detail?id=B4F82174264A4271990B5943CA6819AA";
                 frimwares[3] = "V9";
             } catch { MessageBox.Show("Данные для показа не найдены!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); }
@@ -584,9 +584,9 @@ namespace NineVita
                 textBox17.Text = "Прошивка, основанная на AOSP (Android 8.1) с очень большим количеством настроек.";
                 button4.Text = "GAPPS";
                 button32.Text = "No GAPPS";
-                frimwares[0] = "https://4pda.ru/forum/index.php?act=findpost&pid=86029984&anchor=Spoil-86029984-6";
-                frimwares[1] = "https://4pda.ru/forum/index.php?act=findpost&pid=86029984&anchor=Spoil-86029984-6";
-                frimwares[2] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=86029984";
+                frimwares[0] = "https://4pda.to/forum/index.php?act=findpost&pid=86029984&anchor=Spoil-86029984-6";
+                frimwares[1] = "https://4pda.to/forum/index.php?act=findpost&pid=86029984&anchor=Spoil-86029984-6";
+                frimwares[2] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=86029984";
                 frimwares[3] = "LO151";
             } catch { MessageBox.Show("Данные для показа не найдены!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); }
         }
@@ -607,7 +607,7 @@ namespace NineVita
                 button32.Text = "Ещё раз";
                 frimwares[0] = "https://yadi.sk/d/cklsb4NNhUFINQ";
                 frimwares[1] = "https://yadi.sk/d/cklsb4NNhUFINQ";
-                frimwares[2] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=86241947";
+                frimwares[2] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=86241947";
                 frimwares[3] = "OO";
             } catch { MessageBox.Show("Данные для показа не найдены!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); }
         }
@@ -626,8 +626,8 @@ namespace NineVita
                 textBox17.Text = "Заводская прошивка.";
                 button4.Text = "2/16";
                 button32.Text = "3/32";
-                frimwares[0] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=92021946";
-                frimwares[1] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=92437481";
+                frimwares[0] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=92021946";
+                frimwares[1] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=92437481";
                 frimwares[2] = "https://www.ztedevices.com/en/support/detail?id=B4F82174264A4271990B5943CA6819AA";
                 frimwares[3] = "V12";
             } catch { MessageBox.Show("Данные для показа не найдены!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); }
@@ -688,12 +688,12 @@ namespace NineVita
                 button32.Text = "Ещё раз";
                 frimwares[0] = "https://yadi.sk/d/tBSHhWzlJp6-5w";
                 frimwares[1] = "https://yadi.sk/d/tBSHhWzlJp6-5w";
-                frimwares[2] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=86124087";
+                frimwares[2] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=86124087";
                 frimwares[3] = "HO";
             } catch { MessageBox.Show("Данные для показа не найдены!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); }
         }
 
-        private void button33_Click(object sender, EventArgs e) { try { Process.Start("https://4pda.ru/forum/index.php?s=&showtopic=892755&view=findpost&p=71222655"); } catch { MessageBox.Show("Браузер по умолчанию не настроен!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); } }
+        private void button33_Click(object sender, EventArgs e) { try { Process.Start("https://4pda.to/forum/index.php?s=&showtopic=892755&view=findpost&p=71222655"); } catch { MessageBox.Show("Браузер по умолчанию не настроен!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); } }
 
         private void metroToggle7_CheckedChanged(object sender, EventArgs e)
         {
@@ -707,7 +707,7 @@ namespace NineVita
             }
         }
 
-        private void pictureBox15_Click(object sender, EventArgs e) { try { Process.Start("https://4pda.ru/forum/index.php?showtopic=950607"); } catch { MessageBox.Show("Браузер по умолчанию не настроен!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); } }
+        private void pictureBox15_Click(object sender, EventArgs e) { try { Process.Start("https://4pda.to/forum/index.php?showtopic=950607"); } catch { MessageBox.Show("Браузер по умолчанию не настроен!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); } }
 
         private void pictureBox14_Click(object sender, EventArgs e)
         {
@@ -759,7 +759,7 @@ namespace NineVita
             if (fs == 0) { f = new ChangelogForm(); f.Show(); }
         }
 
-        private void pictureBox17_Click(object sender, EventArgs e) { try { Process.Start("https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=91409816"); } catch { MessageBox.Show( "Браузер по умолчанию не настроен!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); } }
+        private void pictureBox17_Click(object sender, EventArgs e) { try { Process.Start("https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=91409816"); } catch { MessageBox.Show( "Браузер по умолчанию не настроен!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); } }
 
         private void textBox1_MouseClick(object sender, MouseEventArgs e)
         {
@@ -861,9 +861,9 @@ namespace NineVita
                     "Just flash and enjoy...";
                 button4.Text = "Скачать";
                 button32.Text = "Ещё раз";
-                frimwares[0] = "https://sourceforge.net/projects/expressluke-gsis/files/HavocOS/Ten/ARM64/A/Havoc-OS-v3.0-20191225-ARM64A-Unofficial.img.xz/download";
-                frimwares[1] = "https://sourceforge.net/projects/expressluke-gsis/files/HavocOS/Ten/ARM64/A/Havoc-OS-v3.0-20191225-ARM64A-Unofficial.img.xz/download";
-                frimwares[2] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=92530905";
+                frimwares[0] = "https://sourceforge.net/projects/expressluke-gsis/files/HavocOS/Ten/ARM64/A/Havoc-platform-v3.0-20191225-ARM64A-Unofficial.img.xz/download";
+                frimwares[1] = "https://sourceforge.net/projects/expressluke-gsis/files/HavocOS/Ten/ARM64/A/Havoc-platform-v3.0-20191225-ARM64A-Unofficial.img.xz/download";
+                frimwares[2] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=92530905";
                 frimwares[3] = "HO3"; // Папка прошивки
             } catch { MessageBox.Show("Данные для показа не найдены!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); }
         }
@@ -884,7 +884,7 @@ namespace NineVita
                 button32.Text = "A.Host";
                 frimwares[0] = "https://cloud.mail.ru/public/2XXK/3LCBhc8eq";
                 frimwares[1] = "https://androidfilehost.com/?w=files&flid=291038&sort_by=date&sort_dir=DESC";
-                frimwares[2] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=87734060";
+                frimwares[2] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=87734060";
                 frimwares[3] = "BootleggersROM";
             } catch { MessageBox.Show("Данные для показа не найдены!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); }
         }
@@ -907,7 +907,7 @@ namespace NineVita
                 button32.Text = "Ещё раз";
                 frimwares[0] = "https://sourceforge.net/projects/gsi-albus/files/arm64-aonly/android10/arrow/arrow-11-02-2020.7z/download";
                 frimwares[1] = "https://sourceforge.net/projects/gsi-albus/files/arm64-aonly/android10/arrow/arrow-11-02-2020.7z/download";
-                frimwares[2] = "https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=92619499";
+                frimwares[2] = "https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=92619499";
                 frimwares[3] = "AO";
             } catch { MessageBox.Show("Данные для показа не найдены!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); }
         }
@@ -989,7 +989,7 @@ namespace NineVita
             else { bakdir.Clear(); }
         }
 
-        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e) { try { Process.Start("https://4pda.ru/forum/index.php?showtopic=993643"); } catch { MessageBox.Show("Браузер по умолчанию не настроен!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); } }
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e) { try { Process.Start("https://4pda.to/forum/index.php?showtopic=993643"); } catch { MessageBox.Show("Браузер по умолчанию не настроен!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); } }
         private void button5_Click(object sender, EventArgs e) { panel2.Hide(); Properties.Settings.Default.HideAC = true; Properties.Settings.Default.Save(); }
 
         private void button9_Click(object sender, EventArgs e)
@@ -999,7 +999,7 @@ namespace NineVita
             {
                 using (WebClient wc = new WebClient())
                 {
-                    Uri user = new Uri("https://4pda.ru/forum/index.php?showuser=" + UserID1.Text);
+                    Uri user = new Uri("https://4pda.to/forum/index.php?showuser=" + UserID1.Text);
                     string htmlCode = GetResponse(user.ToString());
                     string username = ParseTitle(htmlCode).Replace(" - 4PDA", "");
                     wc.DownloadFile(user, @Application.StartupPath + @"\DATA\profile.dat");
@@ -1040,8 +1040,8 @@ namespace NineVita
             catch { MessageBox.Show("Данного ID не существует!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); }
         }
 
-        private void pictureBox20_Click(object sender, EventArgs e) { try { Process.Start("https://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=93481168"); } catch { MessageBox.Show("Браузер по умолчанию не настроен!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); } }
-        private void avatar_Click(object sender, EventArgs e) { try { Process.Start("https://4pda.ru/forum/index.php?showuser=" + id); } catch { MessageBox.Show("Браузер по умолчанию не настроен!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); } }
+        private void pictureBox20_Click(object sender, EventArgs e) { try { Process.Start("https://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=93481168"); } catch { MessageBox.Show("Браузер по умолчанию не настроен!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); } }
+        private void avatar_Click(object sender, EventArgs e) { try { Process.Start("https://4pda.to/forum/index.php?showuser=" + id); } catch { MessageBox.Show("Браузер по умолчанию не настроен!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); } }
 
         private void button42_Click(object sender, EventArgs e)
         {
@@ -1050,7 +1050,7 @@ namespace NineVita
             {
                 using (WebClient wc = new WebClient())
                 {
-                    Uri user = new Uri("https://4pda.ru/forum/index.php?showuser=" + UserID2.Text);
+                    Uri user = new Uri("https://4pda.to/forum/index.php?showuser=" + UserID2.Text);
                     string htmlCode = GetResponse(user.ToString());
                     string username = ParseTitle(htmlCode).Replace(" - 4PDA", "");
                     wc.DownloadFile(user, @Application.StartupPath + @"\DATA\profile.dat");
@@ -1201,9 +1201,9 @@ namespace NineVita
                 textBox17.Text = "Кастомный Android, основанный на AOSP и имеющий множество настроек для кастомизации системы.";
                 button4.Text = "GAPPS";
                 button32.Text = "No GAPPS";
-                frimwares[0] = "http://4pda.ru/forum/index.php?act=findpost&pid=93874587&anchor=Spoil-93874587-8";
-                frimwares[1] = "http://4pda.ru/forum/index.php?act=findpost&pid=93874587&anchor=Spoil-93874587-7";
-                frimwares[2] = "http://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=93874587";
+                frimwares[0] = "http://4pda.to/forum/index.php?act=findpost&pid=93874587&anchor=Spoil-93874587-8";
+                frimwares[1] = "http://4pda.to/forum/index.php?act=findpost&pid=93874587&anchor=Spoil-93874587-7";
+                frimwares[2] = "http://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=93874587";
                 frimwares[3] = "AEX_V";
             } catch { MessageBox.Show("Данные для показа не найдены!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); }
         }
@@ -1224,7 +1224,7 @@ namespace NineVita
                 button32.Text = "Ещё раз";
                 frimwares[0] = "https://androidfilehost.com/?fid=1395089523397949479";
                 frimwares[1] = "https://androidfilehost.com/?fid=1395089523397949479";
-                frimwares[2] = "http://4pda.ru/forum/index.php?s=&showtopic=952274&view=findpost&p=85452591";
+                frimwares[2] = "http://4pda.to/forum/index.php?s=&showtopic=952274&view=findpost&p=85452591";
                 frimwares[3] = "AEX";
             } catch { MessageBox.Show("Данные для показа не найдены!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error); }
         }
@@ -1302,7 +1302,7 @@ namespace NineVita
 
                     using (WebClient wc = new WebClient())
                     {
-                        Uri user = new Uri("https://4pda.ru/forum/index.php?showuser=" + id);
+                        Uri user = new Uri("https://4pda.to/forum/index.php?showuser=" + id);
                         string htmlCode = GetResponse(user.ToString());
                         string username = ParseTitle(htmlCode).Replace(" - 4PDA", "");
                         wc.DownloadFile(user, @Application.StartupPath + @"\DATA\profile.dat");
