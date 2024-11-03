@@ -17,9 +17,9 @@
 
 ## Скриншоты
 
-`<a href="https://ibb.co/gZVkwTH"><img src="https://i.ibb.co/r2sDM6T/adb.png" alt="adb" border="0">``</a>`
-`<a href="https://ibb.co/nkjtLSC"><img src="https://i.ibb.co/ZTx7MCm/upd.png" alt="upd" border="0">``</a>`
-`<a href="https://ibb.co/g64nV3x"><img src="https://i.ibb.co/ZN2ZmV0/image.png" alt="image" border="0">``</a>`
+<a href="https://ibb.co/gZVkwTH"><img src="https://i.ibb.co/r2sDM6T/adb.png" alt="adb" border="0"></a>
+<a href="https://ibb.co/nkjtLSC"><img src="https://i.ibb.co/ZTx7MCm/upd.png" alt="upd" border="0"></a>
+<a href="https://ibb.co/g64nV3x"><img src="https://i.ibb.co/ZN2ZmV0/image.png" alt="image" border="0"></a>
 
 ## Описание
 
